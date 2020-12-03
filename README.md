@@ -26,3 +26,6 @@ docker container run --rm -p 3838:3838 \
 				 -v /home/ec2-user/log/shiny-server:/var/log/shiny-server abdala9512/iss-shiny
 ```
 
+# Contact
+You can contribute or send me an email to miguel.arquez12@gmail.com :)
+
